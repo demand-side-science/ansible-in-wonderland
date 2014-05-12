@@ -1,0 +1,9 @@
+Host 192.168.100.11
+     HostName          192.168.100.11
+     IdentityFile      ~/.ssh/alice.pem
+     User              alice
+
+Host 192.168.100.12
+     HostName          192.168.100.12
+     IdentityFile      ~/.ssh/alice.pem
+     User              alice
