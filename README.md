@@ -5,6 +5,7 @@
 ## 連載へのリンク
 
 - [第1章 インフラの落とし穴にはまって](http://demand-side-science.jp/blog/2014/ansible-in-wonderland-01/)
+- [第2章 忠実な兵士たち](http://demand-side-science.jp/blog/2014/ansible-in-wonderland-02/)
 
 
 
