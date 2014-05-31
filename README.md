@@ -4,8 +4,8 @@
 
 ## 連載へのリンク
 
-- [第1章 インフラの落とし穴にはまって](http://demand-side-science.jp/blog/2014/ansible-in-wonderland-01/)
-- [第2章 忠実な兵士たち](http://demand-side-science.jp/blog/2014/ansible-in-wonderland-02/)
+- [第1話 インフラの落とし穴にはまって](http://demand-side-science.jp/blog/2014/ansible-in-wonderland-01/)
+- [第2話 忠実な兵士たち](http://demand-side-science.jp/blog/2014/ansible-in-wonderland-02/)
 
 
 
@@ -75,8 +75,7 @@ vagrant ssh an11
 ### 3. alice ユーザになる
 
 ```
-sudo -s -u alice
-cd
+sudo -i -u alice
 ```
 
 これで、チュートリアルと同じ状態を再現できます。
